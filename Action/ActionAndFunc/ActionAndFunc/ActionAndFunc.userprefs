@@ -1,17 +1,13 @@
-﻿<Properties StartupConfiguration="{939C29B4-7AE1-43A4-A91A-6B25FC805186}|Default">
-  <MonoDevelop.Ide.ItemProperties.Covariance PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{D5A90528-8E5D-49A3-AE3D-B7B0BB666A7B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="29" Column="23" />
-      <File FileName="ClassA.cs" Line="14" Column="34" />
-      <File FileName="ClassB.cs" Line="14" Column="34" />
-      <File FileName="ClassC.cs" Line="6" Column="21" />
+      <File FileName="Program.cs" Line="10" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Covariance" expanded="True">
-            <Node name="Covariance" expanded="True">
+          <Node name="ActionAndFunc" expanded="True">
+            <Node name="ActionAndFunc" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -23,6 +19,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ActionAndFunc PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

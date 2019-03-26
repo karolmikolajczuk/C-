@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Action/ActionAndFunc/ActionAndFunc/bin/Debug/ActionAndFunc.exe
+/home/karol/Projekty/C#/Action/ActionAndFunc/ActionAndFunc/bin/Debug/ActionAndFunc.pdb
+/home/karol/Projekty/C#/Action/ActionAndFunc/ActionAndFunc/obj/x86/Debug/ActionAndFunc.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Action/ActionAndFunc/ActionAndFunc/obj/x86/Debug/ActionAndFunc.exe
+/home/karol/Projekty/C#/Action/ActionAndFunc/ActionAndFunc/obj/x86/Debug/ActionAndFunc.pdb

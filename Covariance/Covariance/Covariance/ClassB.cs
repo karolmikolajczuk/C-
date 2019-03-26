@@ -9,7 +9,7 @@ namespace Covariance
         {
         }
 
-        public static override void Print()
+        public override void Print()
         {
             Console.WriteLine(a);
             Console.WriteLine(b);
