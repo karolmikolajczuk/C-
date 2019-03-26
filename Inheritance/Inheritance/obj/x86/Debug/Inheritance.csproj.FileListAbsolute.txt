@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Inheritance/Inheritance/bin/Debug/Inheritance.exe
+/home/karol/Projekty/C#/Inheritance/Inheritance/bin/Debug/Inheritance.pdb
+/home/karol/Projekty/C#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.exe
+/home/karol/Projekty/C#/Inheritance/Inheritance/obj/x86/Debug/Inheritance.pdb
