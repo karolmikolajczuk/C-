@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/File/Files/File/obj/x86/Debug/File.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/File/Files/File/bin/Debug/File.exe
+/home/karol/Projekty/C#/File/Files/File/bin/Debug/File.pdb
+/home/karol/Projekty/C#/File/Files/File/obj/x86/Debug/File.exe
+/home/karol/Projekty/C#/File/Files/File/obj/x86/Debug/File.pdb
