@@ -1,0 +1,5 @@
+/home/karol/Projekty/ASP.NET/Generics/Generics/Generics/bin/Debug/Generics.exe
+/home/karol/Projekty/ASP.NET/Generics/Generics/Generics/bin/Debug/Generics.pdb
+/home/karol/Projekty/ASP.NET/Generics/Generics/Generics/obj/x86/Debug/Generics.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/ASP.NET/Generics/Generics/Generics/obj/x86/Debug/Generics.exe
+/home/karol/Projekty/ASP.NET/Generics/Generics/Generics/obj/x86/Debug/Generics.pdb
