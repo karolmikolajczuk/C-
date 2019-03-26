@@ -1,0 +1,5 @@
+/home/karol/Projects/Anonymous_Method/Anonymous_Method/obj/x86/Debug/Anonymous_Method.csproj.CoreCompileInputs.cache
+/home/karol/Projects/Anonymous_Method/Anonymous_Method/bin/Debug/Anonymous_Method.exe
+/home/karol/Projects/Anonymous_Method/Anonymous_Method/bin/Debug/Anonymous_Method.pdb
+/home/karol/Projects/Anonymous_Method/Anonymous_Method/obj/x86/Debug/Anonymous_Method.exe
+/home/karol/Projects/Anonymous_Method/Anonymous_Method/obj/x86/Debug/Anonymous_Method.pdb
