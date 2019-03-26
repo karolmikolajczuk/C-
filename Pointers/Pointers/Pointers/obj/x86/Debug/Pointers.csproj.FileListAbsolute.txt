@@ -1,0 +1,1 @@
+/home/karol/Projekty/C#/Pointers/Pointers/Pointers/obj/x86/Debug/Pointers.csproj.CoreCompileInputs.cache

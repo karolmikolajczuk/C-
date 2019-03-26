@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Nullable/Nullable/Nullable/bin/Debug/Nullable.exe
+/home/karol/Projekty/C#/Nullable/Nullable/Nullable/bin/Debug/Nullable.pdb
+/home/karol/Projekty/C#/Nullable/Nullable/Nullable/obj/x86/Debug/Nullable.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Nullable/Nullable/Nullable/obj/x86/Debug/Nullable.exe
+/home/karol/Projekty/C#/Nullable/Nullable/Nullable/obj/x86/Debug/Nullable.pdb
