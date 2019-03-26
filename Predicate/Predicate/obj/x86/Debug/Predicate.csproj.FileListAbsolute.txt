@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Predicate/Predicate/bin/Debug/Predicate.exe
+/home/karol/Projekty/C#/Predicate/Predicate/bin/Debug/Predicate.pdb
+/home/karol/Projekty/C#/Predicate/Predicate/obj/x86/Debug/Predicate.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Predicate/Predicate/obj/x86/Debug/Predicate.exe
+/home/karol/Projekty/C#/Predicate/Predicate/obj/x86/Debug/Predicate.pdb
