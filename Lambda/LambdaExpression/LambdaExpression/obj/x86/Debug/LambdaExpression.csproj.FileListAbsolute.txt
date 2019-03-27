@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Lambda/LambdaExpression/LambdaExpression/obj/x86/Debug/LambdaExpression.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Lambda/LambdaExpression/LambdaExpression/bin/Debug/LambdaExpression.exe
+/home/karol/Projekty/C#/Lambda/LambdaExpression/LambdaExpression/bin/Debug/LambdaExpression.pdb
+/home/karol/Projekty/C#/Lambda/LambdaExpression/LambdaExpression/obj/x86/Debug/LambdaExpression.exe
+/home/karol/Projekty/C#/Lambda/LambdaExpression/LambdaExpression/obj/x86/Debug/LambdaExpression.pdb
