@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/StringBuilder/StringBuilder/StringBuilder/bin/Debug/StringBuilder.exe
+/home/karol/Projekty/C#/StringBuilder/StringBuilder/StringBuilder/bin/Debug/StringBuilder.pdb
+/home/karol/Projekty/C#/StringBuilder/StringBuilder/StringBuilder/obj/x86/Debug/StringBuilder.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/StringBuilder/StringBuilder/StringBuilder/obj/x86/Debug/StringBuilder.exe
+/home/karol/Projekty/C#/StringBuilder/StringBuilder/StringBuilder/obj/x86/Debug/StringBuilder.pdb
