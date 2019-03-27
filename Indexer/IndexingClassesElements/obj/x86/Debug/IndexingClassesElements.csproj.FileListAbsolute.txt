@@ -1,0 +1,5 @@
+/home/karol/Projekty/C#/Indexer/IndexingClassesElements/bin/Debug/IndexingClassesElements.exe
+/home/karol/Projekty/C#/Indexer/IndexingClassesElements/bin/Debug/IndexingClassesElements.pdb
+/home/karol/Projekty/C#/Indexer/IndexingClassesElements/obj/x86/Debug/IndexingClassesElements.csproj.CoreCompileInputs.cache
+/home/karol/Projekty/C#/Indexer/IndexingClassesElements/obj/x86/Debug/IndexingClassesElements.exe
+/home/karol/Projekty/C#/Indexer/IndexingClassesElements/obj/x86/Debug/IndexingClassesElements.pdb
