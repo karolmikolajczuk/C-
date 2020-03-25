@@ -1,0 +1,4 @@
+Karol,Mikołajczuk,100,100,100,Programowanie Komputerowe,5,Nie,Tak
+
+Test,T,33,20,01,Analiza Matematyczna,4,Nie,Tak
+

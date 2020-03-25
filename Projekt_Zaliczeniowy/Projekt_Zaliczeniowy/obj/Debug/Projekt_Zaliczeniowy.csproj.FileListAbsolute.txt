@@ -1,0 +1,12 @@
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\bin\Debug\Projekt_Zaliczeniowy.exe.config
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\bin\Debug\Projekt_Zaliczeniowy.exe
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\bin\Debug\Projekt_Zaliczeniowy.pdb
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.csprojAssemblyReference.cache
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.Form1.resources
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.Properties.Resources.resources
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.csproj.GenerateResource.cache
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.exe
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\obj\Debug\Projekt_Zaliczeniowy.pdb
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\bin\Debug\Database1.mdf
+C:\Users\Karol\Desktop\Projekt_Zaliczeniowy\Projekt_Zaliczeniowy\bin\Debug\Database1_log.ldf
